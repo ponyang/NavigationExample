@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  SecondViewController.h
 //  NavigationExample
 //
 //  Created by nevard on 2015. 9. 16..
@@ -8,9 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
+@interface SecondViewController : UIViewController
 
 @end
-

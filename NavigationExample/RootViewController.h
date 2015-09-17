@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  RootViewController.h
 //  NavigationExample
 //
 //  Created by nevard on 2015. 9. 16..
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface RootViewController : UIViewController
 
 @end
-
